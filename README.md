@@ -1,34 +1,39 @@
 <div id="header" align="center">
+  <h1>
+    Hello folks!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+     This is Tanmay Mallick
+  </h1>
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/mallicktanmay/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="mailto:mallicktanmay2812@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a> 
     <a href="https://leetcode.com/the_queenhunter/">
-      <img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+      <img src="https://img.shields.io/badge/Leetcode-fae243?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
     </a>
 <!--     <a href="your-twitter-URL">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a> -->
   </div>
   <img src="https://komarev.com/ghpvc/?username=Tanmay2812&style=flat-square&color=blue" alt=""/>
-  <h1>
-    Hello folks!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-     This is Tanmay Mallick
-  </h1>
 </div>
 
 ---
 
 ### :woman_technologist: About Me :
-I am Final-Year B.Tech Undergrad at IIT Bhubaneswar
-- I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangalore, India.
+I am Final-Year B.Tech Undergrad at IIT Bhubaneswar.
+
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I am a Software Engineer from Bangalore, India.
+
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 <!-- - :seedling: Exploring Technical Content Writing. -->
 
-- :zap: In my free time, I solve problems on LeetCode and read tech articles.
+- :zap: In my free time, I solve problems on LeetCode and Build Future.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Tanmay-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mallicktanmay/)
 
@@ -57,13 +62,14 @@ I am Final-Year B.Tech Undergrad at IIT Bhubaneswar
 
 ---
 
-<!-- ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tanmay2812&theme=dark&background=000000)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tanmay2812&theme=dark)](https://git.io/streak-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay2812&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### :writing_hand: Blog Posts : -->
+<!-- ### :writing_hand: Blog Posts : -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
