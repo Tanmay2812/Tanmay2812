@@ -25,7 +25,8 @@
 ---
 
 ### :woman_technologist: About Me :
-I am Final-Year B.Tech Undergrad at IIT Bhubaneswar.
+
+-I graduated from IIT Bhubaneswar in the year 2023.
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I am a Software Engineer from Bangalore, India.
 
