@@ -24,13 +24,15 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 
 - I graduated from IIT Bhubaneswar in the year 2023.
+  
+- Currently Working as Software Development Engineer @ ZL Tech.
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I am a Software Engineer from Bangalore, India.
+<!-- - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I am a Software Engineer from Bangalore, India. -->
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+<!-- - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.-->
 
 <!-- - :seedling: Exploring Technical Content Writing. -->
 
@@ -43,6 +45,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
@@ -59,6 +62,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij" **alt="Intellij" width="40" height="40"/>
 </div>
 
 ---
